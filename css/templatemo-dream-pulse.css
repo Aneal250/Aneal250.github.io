@@ -593,6 +593,17 @@ figure.effect-bubba:hover p {
 .navbar-toggler {
 	display: none;
 }
+/* text gray and italics */
+.tm-text-gray {
+	color: #707172;
+	font-style: italic;
+}
+.tm-text-gray-small {
+	font-weight: bold;
+	color: #707172;
+	font-style: italic;
+	font-size: 10px;
+}
 
 @media (max-width: 991px) {
 	.tm-bg-black-transparent {
